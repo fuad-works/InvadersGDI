@@ -1,0 +1,7 @@
+C:\Users\Fuad-Sale7\Projects\Invaders\Invaders\bin\Debug\Invaders.exe
+C:\Users\Fuad-Sale7\Projects\Invaders\Invaders\bin\Debug\Invaders.pdb
+C:\Users\Fuad-Sale7\Projects\Invaders\Invaders\obj\x86\Debug\Invaders.Form1.resources
+C:\Users\Fuad-Sale7\Projects\Invaders\Invaders\obj\x86\Debug\Invaders.Properties.Resources.resources
+C:\Users\Fuad-Sale7\Projects\Invaders\Invaders\obj\x86\Debug\Invaders.csproj.GenerateResource.Cache
+C:\Users\Fuad-Sale7\Projects\Invaders\Invaders\obj\x86\Debug\Invaders.exe
+C:\Users\Fuad-Sale7\Projects\Invaders\Invaders\obj\x86\Debug\Invaders.pdb
